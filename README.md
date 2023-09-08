@@ -1,7 +1,7 @@
 <div align=center>
   
 ![header](https://capsule-render.vercel.app/api?&type=waving&color=fb958b&height=200&section=header&text=Hi,%20there!&fontSize=60&animation=fadeIn&fontColor=FFFAFA&fontAlign=70&fontAlignY=25&rotate=8)
-#### :herb:안녕하세요 ! 동국대학교에 재학 중인 유다현입니다.:herb:
+#### :herb: 안녕하세요. 동국대학교 재학 중인 유다현입니다. :herb:
 
 <br/>
 <br/>
