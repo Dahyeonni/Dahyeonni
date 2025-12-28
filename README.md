@@ -20,6 +20,7 @@
 <div align="center">
   <!-- Frontend & Backend Stack -->
   <img src="https://img.shields.io/badge/Java-1B2430?style=flat-square&logo=Java&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Spring%20Boot-1B2430?style=flat-square&logo=SpringBoot&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/React-1B2430?style=flat-square&logo=React&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Next.js-1B2430?style=flat-square&logo=Next.js&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/React%20Native-1B2430?style=flat-square&logo=React&logoColor=61DAFB">
